@@ -1,0 +1,14 @@
+django==2.2.10
+djangorestframework==3.12.2
+mysqlclient==2.0.3
+django-filter==2.4.0
+drf-yasg2==1.19.4
+redis==4.3.1
+pytest==6.2.1
+pytest-django==4.1.0
+pytest-pep8==1.0.6
+redlock==1.2.0
+gunicorn==20.1.0
+aiohttp==3.8.1
+oss2==2.13.0
+gevent==22.10.2
